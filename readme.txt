@@ -13,7 +13,7 @@ This plugin easily display you post and page through shortcode on front end.You 
 <p>If you want to exclude categories then put ([sitemap excludepage="1,4" excludecat="6,3"]) where 6,3 are the category id seperated by the comma's.</p>
 <p>If you want to exclude post then put ([sitemap excludepage="1,4" excludecat="6,3" excludepost="1,183"]) where 1,183 are the post id seperated by the comma's.</p>
 <p>If you don't want to show any of the post put ([sitemap showpost="no"])</p>
-<p>For more plugins, themes and WordPress support , Please visit http://www.csschopper.com/</p>
+<p>For more plugins, themes and WordPress support , Please visit http://www.csschopper.com/ </p>
 
 
 == Installation ==
